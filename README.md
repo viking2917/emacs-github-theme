@@ -7,4 +7,6 @@ Assumes the use of web-mode (primarily for html/css files). See: http://web-mode
 
 I've only tested this with javascript, php, html and css files. 
 
+I've only tested this with Aquamacs 3.4  GNU Emacs 25.3.50.1 on MacOS. 
+
 YMMV.
